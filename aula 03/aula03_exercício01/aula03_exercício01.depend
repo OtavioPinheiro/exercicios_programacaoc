@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583103609 source:d:\fatec\2º semestre\linguagem de programação\aula03_exercício01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
